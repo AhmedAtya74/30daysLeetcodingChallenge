@@ -1,4 +1,4 @@
-# 30daysLeetcodingChallenge
+# 30 days Leetcoding Challenge
 
 
 - [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
@@ -8,4 +8,8 @@
 
 
 - [Jump Game](https://leetcode.com/problems/jump-game/)
+
+
+- [Island Perimeter](https://leetcode.com/problems/island-perimeter/)
+
 
