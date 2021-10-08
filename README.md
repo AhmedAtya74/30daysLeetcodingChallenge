@@ -20,3 +20,5 @@
 - [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 
 - [Word Search](https://leetcode.com/problems/word-search/)
+
+- [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
