@@ -30,3 +30,6 @@
 
 
 - [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)
+
+
+- [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
