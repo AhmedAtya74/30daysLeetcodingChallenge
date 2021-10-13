@@ -33,3 +33,6 @@
 
 
 - [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+
+- [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
+
