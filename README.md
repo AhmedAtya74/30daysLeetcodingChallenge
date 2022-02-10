@@ -37,3 +37,5 @@
 - [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
 
 - [Design Bitset](https://leetcode.com/problems/design-bitset/)
+
+- [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
