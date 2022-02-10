@@ -39,3 +39,5 @@
 - [Design Bitset](https://leetcode.com/problems/design-bitset/)
 
 - [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+
+- [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
